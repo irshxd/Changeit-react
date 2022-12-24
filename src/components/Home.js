@@ -41,7 +41,7 @@ const handleOnChange=(event)=>{
   <button className="btn btn-primary  mx-1" onClick={downclick}>Convert to Lowercase</button><br/>
   <button className="btn btn-primary  mx-1" onClick={Copy}>Copy Text</button><br/>
   <button className="btn btn-primary  mx-1" onClick={Cleartext}>Clear Text</button><br/>
-  <button className="btn btn-primary  mx-1" onClick={arrangetext}>Arrange Text</button><br/>
+  <button className="btn btn-primary  mx-1" onClick={arrangetext}>Arrange Text</button><br/> 
 </div>
 
 
