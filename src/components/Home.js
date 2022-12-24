@@ -38,10 +38,10 @@ const handleOnChange=(event)=>{
 <label htmlFor="mytext" className="form-label"><h3>Enter your text here</h3></label>
   <textarea className="form-control" value={count} onChange={handleOnChange} id="mytext" rows="10"></textarea><br/>
   <button className="btn btn-primary" onClick={upclick}>Convert to Uppercase</button>
-  <button className="btn btn-primary my-1 mx-1" onClick={downclick}>Convert to Lowercase</button>
-  <button className="btn btn-primary my-1 mx-1" onClick={Copy}>Copy Text</button>
-  <button className="btn btn-primary my-1 mx-1" onClick={Cleartext}>Clear Text</button>
-  <button className="btn btn-primary my-1 mx-1" onClick={arrangetext}>Arrange Text</button>
+  <button className="btn btn-primary  mx-1 my-1" onClick={downclick}>Convert to Lowercase</button>
+  <button className="btn btn-primary  mx-1 my-1" onClick={Copy}>Copy Text</button>
+  <button className="btn btn-primary  mx-1 my-1" onClick={Cleartext}>Clear</button>
+  <button className="btn btn-primary  mx-1 my-1" onClick={arrangetext}>Arrange Text</button>
 </div>
 
 
