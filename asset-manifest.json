@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Changeit-react/static/css/main.073c9b0a.css",
-    "main.js": "/Changeit-react/static/js/main.be2a43cb.js",
+    "main.js": "/Changeit-react/static/js/main.e47f791b.js",
     "static/js/787.21084c57.chunk.js": "/Changeit-react/static/js/787.21084c57.chunk.js",
     "index.html": "/Changeit-react/index.html",
     "main.073c9b0a.css.map": "/Changeit-react/static/css/main.073c9b0a.css.map",
-    "main.be2a43cb.js.map": "/Changeit-react/static/js/main.be2a43cb.js.map",
+    "main.e47f791b.js.map": "/Changeit-react/static/js/main.e47f791b.js.map",
     "787.21084c57.chunk.js.map": "/Changeit-react/static/js/787.21084c57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.be2a43cb.js"
+    "static/js/main.e47f791b.js"
   ]
 }
