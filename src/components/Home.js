@@ -49,10 +49,10 @@ const handleOnChange=(event)=>{
 <br/>
 <h3>Additional Info</h3>
 <p> 
-  {count.split(" ").length} words and {count.length} characters.
+  {count.split(/\s+/).filter((element)=>{return element.length!==0}).length} words and {count.length} characters.
   </p>
   <p>
-  {0.004 * count.split(" ").length} minutes would be required to read this paragraph.
+  {0.008 * count.split(/\s+/).filter((element)=>{return element.length!==0}).length} minutes would be required to read this paragraph.
 </p>
 
   </div>
